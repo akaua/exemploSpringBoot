@@ -35,7 +35,7 @@
 
 		<div class="starter-template">
 			<h1>Spring Boot Web JSP Example</h1>
-			<h2>Message: ${message}</h2>
+			<h2>Message: Exemplo App Spring</h2>
 		</div>
 
 	</div>
