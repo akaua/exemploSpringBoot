@@ -34,8 +34,8 @@
 	<div class="container">
 
 		<div class="starter-template">
-			<h1>Spring Boot Web JSP Example</h1>
-			<h2>Message: Exemplo App Spring</h2>
+			<h1>Piece of cake</h1>
+			<h2>Message: Spring Boot Web JSP Example</h2>
 		</div>
 
 	</div>
